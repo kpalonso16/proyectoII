@@ -45,6 +45,19 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Cat_Mant\cls_BitacoraIngreso_DAL.cs" />
+    <Compile Include="Cat_Mant\cls_Clientes_DAL.cs" />
+    <Compile Include="Cat_Mant\cls_Encargado_DAL.cs" />
+    <Compile Include="Cat_Mant\cls_Estados_DAL.cs" />
+    <Compile Include="Cat_Mant\cls_Ocupaciones_DAL.cs" />
+    <Compile Include="Cat_Mant\cls_PermisosRol_DAL.cs" />
+    <Compile Include="Cat_Mant\cls_Permisos_DAL.cs" />
+    <Compile Include="Cat_Mant\cls_Reservaciones_DAL.cs" />
+    <Compile Include="Cat_Mant\cls_Roles_DAL.cs" />
+    <Compile Include="Cat_Mant\cls_ServiciosEncargado_DAL.cs" />
+    <Compile Include="Cat_Mant\cls_Servicios_DAL.cs" />
+    <Compile Include="Cat_Mant\cls_TipoServicio_DAL.cs" />
+    <Compile Include="Cat_Mant\cls_Users_DAL.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup />

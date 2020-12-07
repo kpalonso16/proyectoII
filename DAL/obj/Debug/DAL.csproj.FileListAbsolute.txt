@@ -18,3 +18,12 @@ C:\Users\DELL\Downloads\PrograIV\PrograIV\DAL\obj\Debug\DAL.csproj.CoreCompileIn
 C:\Users\DELL\Downloads\PrograIV\PrograIV\DAL\obj\Debug\DAL.csproj.CopyComplete
 C:\Users\DELL\Downloads\PrograIV\PrograIV\DAL\obj\Debug\DAL.dll
 C:\Users\DELL\Downloads\PrograIV\PrograIV\DAL\obj\Debug\DAL.pdb
+D:\UAM\UAM\IIIC 2020\Programacion IV\Proyecto 2\App\Version Final\proyectoII-main\DAL\bin\Debug\DAL.dll
+D:\UAM\UAM\IIIC 2020\Programacion IV\Proyecto 2\App\Version Final\proyectoII-main\DAL\bin\Debug\DAL.pdb
+D:\UAM\UAM\IIIC 2020\Programacion IV\Proyecto 2\App\Version Final\proyectoII-main\DAL\bin\Debug\ExcelDataReader.dll
+D:\UAM\UAM\IIIC 2020\Programacion IV\Proyecto 2\App\Version Final\proyectoII-main\DAL\bin\Debug\ExcelDataReader.pdb
+D:\UAM\UAM\IIIC 2020\Programacion IV\Proyecto 2\App\Version Final\proyectoII-main\DAL\bin\Debug\ExcelDataReader.xml
+D:\UAM\UAM\IIIC 2020\Programacion IV\Proyecto 2\App\Version Final\proyectoII-main\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\UAM\UAM\IIIC 2020\Programacion IV\Proyecto 2\App\Version Final\proyectoII-main\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\UAM\UAM\IIIC 2020\Programacion IV\Proyecto 2\App\Version Final\proyectoII-main\DAL\obj\Debug\DAL.dll
+D:\UAM\UAM\IIIC 2020\Programacion IV\Proyecto 2\App\Version Final\proyectoII-main\DAL\obj\Debug\DAL.pdb
